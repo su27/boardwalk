@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T03:55:29+00:00\n"
+"PO-Revision-Date: 2024-03-08 14:49:03+0000\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:391
+msgid "Accent"
+msgstr "العنصر البارز"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "خلفية"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "مصنف"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "خيارات الواجهة"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "الآرشيفات: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "المحادثات"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "الصوتيات"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "الحالات"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "الروابط"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "الإقتباسات"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "الفيديوهات"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "الصور"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "المعارض"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "الملاحظات"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "الوسم: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "التصنيف: %s"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "القائمة"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "تعليق واحد "
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "أضف تعليقاً "
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "نشرت في %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "كل %s المقالات"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "بارز"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&larr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&rarr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "التنقل بين التدوينات"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "مشاركات حديثة <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> التدوينات الأقدم"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "تصفح المقالات"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى "
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "شَغّال"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "مفعل"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "قائمة اجتماعية"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "قالب: %1$s بواسطة %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "مدعوم بواسطة %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "استمر في القراءة <span class=\"meta-nav\">&larr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "تحرير"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "صفحة"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر تدوينتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على نتائج"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات أقدم &larr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&rarr; تعليقات أقدم"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "استعراض التعليق"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا أفكار على &rdquo;%2$s&ldquo;"
+msgstr[1] "فكرة واحدة على &rdquo;%2$s&ldquo;"
+msgstr[2] "فكرتان اثنتان على &rdquo;%2$s&ldquo;"
+msgstr[3] "%1$s أفكار على &rdquo;%2$s&ldquo;"
+msgstr[4] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+msgstr[5] "%1$s فكرة على &rdquo;%2$s&ldquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "شاهد كل التدوينات عن طريق %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "نُشر بواسطة %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "أرشيفات"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "السنة: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "الشهر: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "اليوم: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "حاول أن تبحث في الأرشيف الشهري. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "أكثر التصنيفات استخداماً"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لايمكن العثور على تلك الصفحة."

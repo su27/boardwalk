@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:05:05+00:00\n"
+"PO-Revision-Date: 2020-09-11 08:57:59+0000\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Označeno tagem"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Rozšířené možnosti nastavení"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Archiv: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio příspěvky"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citace"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Aktuality"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Rozhovory"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j.n.Y"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Poznámky"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Obrázky"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video příspěvky"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerie"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Archiv rubriky: %s"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "Komentáře: %"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "Od %s"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Zveřejněno v %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "Všech %s příspěvků"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Zvýrazněno"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigace příspěvku"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Novější příspěvky <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Starší příspěvky"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigace pro příspěvky"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "%s. stránka"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "zapnout"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Menu sociálních sítí"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Hlavní menu"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Šablona: %1$s od %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://cs.wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Celý příspěvek <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Upravit"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "stránka"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí zadaného klíčového slova."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale hledaný výraz nebyl na webu nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Novější komentáře &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Starší komentáře"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Navigace v komentářích"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "Zobrazit všechny příspěvky, jejichž autorem je %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Publikoval %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Archiv"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Měsíc: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Den: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Zkuste se podívat do měsíčních archivů. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Nejpoužívanější kategorie"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."

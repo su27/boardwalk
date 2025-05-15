@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T03:56:46+00:00\n"
+"PO-Revision-Date: 2024-03-08 14:57:22+0000\n"
+"Language: skr_PK\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "پس منظر"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "ٹیگ تھی ڳیا"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "تھیم اختیارات"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "آرکائیو: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "آڈیو"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "ڳالھیں"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "سٹیٹس"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "لنک"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "ٻول"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "ویڈیو"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "تصویراں"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "گیلریاں"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "پاسے نال"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "ٹیگ: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "ونکی: %s"
+
+#. Description of the theme
+#: style.css
+msgid "A minimalistic theme with horizontal scrolling."
+msgstr "اُفقی سکرولنگ دے طور تے ہِک گھٹ-توں-گھٹ تھیم۔ "
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "مینیو"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s کیتے نتیجے ڳولو"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% تبصرے"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "١ تبصرہ"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "تبصرہ  لکھو"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "%1$s وچ پوسٹ تھی ڳیا"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "ساریاں %s پوسٹاں"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "خاص"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "پوسٹ نیویڳیشݨ"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "نویاں نکور پوسٹاں <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> پراݨیاں پوسٹاں"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "پوسٹاں دی نیویڳیشݨ"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "ورقہ %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "چھوڑو تے مواد تے ون٘ڄو"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "پاسے آلی پٹی"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "سماجی مینیو"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "بنیادی مینیو"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "تھیم: %1$s بائی %2$s"
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "%s کنوں فخریہ طاقتور ٻݨیا ہویا"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "پڑھݨ شروع کرو <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "تبدیلی کرو"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "ورقہ"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "ورقے:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "اِین٘ویں لڳدے جو اَساں اُوہ شئے نِسے لبھ سڳدے جین٘دی تُساں ڳویڑ کِیتی ہِے۔ تِھی سڳدے جو ڳویڑ نال کُجھ معاونت مِلے۔ "
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "افسوس، تہاݙی ڳولݨ ٹرم  نال ککھ نی رلدا۔ سوہݨا کجھ ٻنھاں خاص لفظاں نال ڳولݨ دی کوشش کرو۔"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "تہاݙی پہلی پوسٹ شائع تھیوݨ کیتے تیار ہے? <a href=\"%1$s\">اتھ شروع کرو</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "کائی شئے کائنی لبھی"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "تبصرے بند  ہن۔"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "تازہ ترین تبصرے  &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; پراݨے تبصرے"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "تبصریاں دی نیویڳیشݨ"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo اُتے ہِک وِچار؛"
+msgstr[1] "&ldquo;%2$s&rdquo; اُتے %1$s وِچار؛"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "%s دیاں ساریاں پوسٹاں ݙیکھو"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "%s کنوں شائع  تھی ڳیا"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "آرکائیو"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "سال"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "%s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "مہینہ:  %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "ڈین٘ہ: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "مصنف: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "ماہانہ آرکائیواں وچ ݙیکھݨ دی کوشش کرو۔ %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "ودھ ورتیاں ڳیاں ون٘کیاں"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "اِین٘ویں لڳدے جو اِیں جاء تے کُجھ نئیں لبھیا۔ تھی سڳدے جو تَلّوں آلے لِنکاں تے کوشِش کرو یا ہِک ڳویڑ کرو؟"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوہو! ایہ ورقہ کائنی لبھ سڳا۔"

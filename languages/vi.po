@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-21T02:20:44+00:00\n"
+"PO-Revision-Date: 2024-09-18 01:00:27+0000\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Thẻ"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Tùy chỉnh cho giao diện"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Lưu trữ: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Tán gẫu"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Trạng thái"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Đường dẫn"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Trích dẫn"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Bộ sưu tập"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Trích đoạn bài viết"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Thẻ: %s "
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Chuyên mục: %s"
+
+#. Description of the theme
+msgid "A minimalistic theme with horizontal scrolling."
+msgstr "Một giao diện tối giản với cuộn ngang."
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1 Phản hồi"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "Bởi %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "Tất cả %s bài viết"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Những bài đăng mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Những bài đăng cũ hơn"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Điều hướng các bài viết"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: header.php:33
+msgid "Toggle Sidebar"
+msgstr "Đóng mở thanh bên"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Lựa chọn xã hội"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Menu chính"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Sửa"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Trang"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "Xem các bài viết của %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Đăng bởi %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "N"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Năm: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F N"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Ngày: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Tác giả: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Thử tìm trong lưu trữ tháng. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Chuyên mục dùng nhiều nhất"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Không tìm thấy gì ở đây. Thử tìm thứ khác hoặc chọn một trong những liên kết dưới đây?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."

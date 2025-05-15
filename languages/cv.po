@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-19T00:59:23+00:00\n"
+"PO-Revision-Date: 2021-04-18 16:17:43+0000\n"
+"Language: cv_RU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Тегланă"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Тема Опцийĕсем"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Архивсем: %s"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статуссем"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чатсем"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитатăсем"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Каçăсем"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Кĕскен çырнисем"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерейăсем"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Сăнсем"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видеосем"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Тег: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Категори: %s"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Меню"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s валли Шырав результачĕсем"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% Комментари"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "Комментари"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Шухăш çырас"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "%1$s публикацийĕ"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "Пур %s публикаци"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Ятарлăн сĕннĕ"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Публикаци навигацийĕ"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Çĕнĕрех постсем <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Кивĕрех публикацисем"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Публикацисен навигацийĕ"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Тÿрех контент патне сиксе каç"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Чи тĕп меню"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Стиль: %1$s by %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "%s пулăшнипе ĕçлет"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Малалла вулас <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Тÿрлетес"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Страница"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Страницăсем:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Эсир шыракан япала тупăнмасть пек туйăнать. Тен шырав туса пăхни усăллă пулĕ."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Каçарăр та, анчах сирĕн шырав сăмахĕсене нимĕн тÿр килмерĕ. Тархасшăн, урăх сăмахсем çырса кĕртсе тепĕр хут туса пăхăр."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ну, хатĕр-и пĕрремĕш публикаци тума? <a href=\"%1$s\">Кунта пуçлăр</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ним тупăнмарĕ"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Комментари çырассине чарнă."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Çĕнĕрех Комментарисем &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Кивĕрех комментарисем"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Комментари навигацийĕ"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; çине пĕр шухăш"
+msgstr[1] "&ldquo;%2$s&rdquo; çине %1$s шухăш"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "%s'ăн мĕн пур постне курас"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Публикацилекенĕ %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Архив"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Çул: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Уйăх: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Кун: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Авторĕ: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Уйăхсеренхи архивсенче пăхса илĕр. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Чи нумай усă курнă категорисем"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ку тĕлте нимĕн те тупăнмарĕ пек курăнать. Тен, аялти каçĕсенчен пĕрине уçса пăхсан е шырав тусан усси пулĕ? "
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ак тата! Ку страница тупăнмарĕ."

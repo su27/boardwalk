@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T03:56:27+00:00\n"
+"PO-Revision-Date: 2024-06-12 12:41:05+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:391
+msgid "Accent"
+msgstr "Spalva"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "Fono nustatymai"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Su  gaire"
+
+#: inc/customizer.php:76
+msgid "If featured image isn't set, display colored block on blog page."
+msgstr "Jei nėra paveikslėlio, rodyti spalvotą bloką."
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Temos nuostatos"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Archyvai: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Pokalbiai"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusai"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Nuorodos"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citatos"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Paveiksliukai"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijos"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Užrašai"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Žymė: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Kategorija: %s"
+
+#: inc/customizer.php:65
+msgid "Unfixed header when scrolling down."
+msgstr "Nefiksuota poraštė slenkant žemyn."
+
+#: inc/customizer.php:53
+msgid "Keep title with content on single posts and pages."
+msgstr "Rodyti pavadinimą kartu su turiniu įrašuose ir puslapiuose."
+
+#: inc/customizer.php:41
+msgid "Show author bio on single posts."
+msgstr "Rodyti autoriaus aprašymą įrašuose."
+
+#. Description of the theme
+#: style.css
+msgid "A minimalistic theme with horizontal scrolling."
+msgstr "Minimalistinė tema su horizontaliu slinkimu."
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Meniu"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Paieškos rezultatai pagal: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "Komentarų: %"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "Komentarų: 1"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Parašykite komentarą"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "Autorius %s"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Kategorija %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "Visi %s įrašai"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Siūloma"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Įrašo naršymas"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Naujesni įrašai <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Senesni įrašai"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Įrašų navigacija"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "Puslapis %s"
+
+#: inc/customizer.php:30
+msgid "Add a dark filter to featured images"
+msgstr "Užtamsinti specialius paveikslėlius"
+
+#: header.php:33
+msgid "Toggle Sidebar"
+msgstr "Rodyti/nerodyti šoninę sritį"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Praleisti ir eiti į turinį"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Code Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:153
+msgctxt "Source Code Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Valdiklių sritis"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Socialiniai tinklai"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Pagrindinis meniu"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s | Sukūrė: %2$s"
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Sistema: %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Skaityti toliau <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Puslapis"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta Bandykite pasinaudoti paieška."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, nieko panašaus rasti nepavyko. Pabandykite įvesti kitokį paieškos raktažodį."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti savo pirmajį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentavimo galimybė išjungta."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Naujesni komentarai &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Senesni komentarai"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Komentaro naršymas"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentaras &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarai &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentarų &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "Peržiūrėti visus %s įrašus"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Paskelbė %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Archyvai"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Metai: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Mėnesis: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Diena: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Autorius: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Pabandykite pažiūrėti mėnesio archyve. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Populiariausios kategorijos"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Nieko nerasta. Galbūt pabandykite vieną iš nuorodų žemiau arba paiešką? "
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas. "

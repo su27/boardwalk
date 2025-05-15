@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:05:05+00:00\n"
+"PO-Revision-Date: 2018-12-20 00:07:23+0000\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:391
+msgid "Accent"
+msgstr "Accent"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "Background"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Tagged"
+
+#: inc/customizer.php:76
+msgid "If featured image isn't set, display colored block on blog page."
+msgstr "If a featured image isn't set, display a coloured block on the blog page."
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/customizer.php:65
+msgid "Unfixed header when scrolling down."
+msgstr "Unfixed header when scrolling down."
+
+#: inc/customizer.php:53
+msgid "Keep title with content on single posts and pages."
+msgstr "Keep title with content on single posts and pages."
+
+#: inc/customizer.php:41
+msgid "Show author bio on single posts."
+msgstr "Show author bio on single posts."
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/boardwalk/style.css
+msgid "A minimalistic theme with horizontal scrolling."
+msgstr "A minimalistic theme with horizontal scrolling."
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "All %s posts"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Featured"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:113
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:30
+msgid "Add a dark filter to featured images"
+msgstr "Add a dark filter to featured images"
+
+#: header.php:33
+msgid "Toggle Sidebar"
+msgstr "Toggle Sidebar"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Code Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:153
+msgctxt "Source Code Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Page"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Published by %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."

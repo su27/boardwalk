@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-21T03:56:58+00:00\n"
+"PO-Revision-Date: 2024-03-08 14:48:07+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:391
+msgid "Accent"
+msgstr "Acen"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "Cefndir"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Tagiwyd"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Dewisiadau Themâu"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Archifau: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Sgyrsiau"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Sain"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statws"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Cysylltau"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Dyfyniadau"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Fideos"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Delweddau"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Orielau"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Neilleb"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Categori: %s"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Dewislen"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% Sylw"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1 Sylw"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Gadael sylw"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Cofnodwyd yn %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "Nodweddion"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Symud o amgylch cofnodion"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Cofnodion mwy diweddar <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Cofnodion hŷn"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Llywio cofnodion"
+
+#: inc/extras.php:114
+msgid "Page %s"
+msgstr "Tudalen %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Neidio i'r cynnwys"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "ar"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ymlaen"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Bar Ochr"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Dewislen Gymdeithasol"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Dewislen Cynradd"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s gan %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Yn falch o gael ei bweru gan %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Parhau i ddarllen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Golygu"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Tudalen"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Mae'n ymddangos nad ydych yn gallu canfod yr hyn rydych yn chwilio amdano. Efallai y gall chwilio fod o gymorth."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Does dim yn cydweddu eich geiriau chwilio. Ceisiwch eto gydag allweddeiriau gwahanol."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Barod i gyhoeddi eich cofnod cyntaf? <a href=\"%1$s\">Cychwyn fan hyn</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Sylwadau wedi cau."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Cofnodion Diweddarach &raquo;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&laquo; Cofnodion Hŷn"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Llywio Sylwadau"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un sylw ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "Gweld pob cofnod gan %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Cyhoeddwyd gan %s"
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Archifau"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Blwyddyn: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Mis: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Diwrnod: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Awdur: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Ceisiwch edrych yn yr archifau misol. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categoriau Mwyaf eu Defnydd"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Mae'n edrych fel bod dim i'w gael yn fan hyn. Beth am ddilyn un o'r dolenni isod neu chwilio?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Wps! Does dim modd canfod y dudalen honno."

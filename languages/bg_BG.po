@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Boardwalk\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:05:05+00:00\n"
+"PO-Revision-Date: 2019-12-15 12:14:15+0000\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:391
+msgid "Accent"
+msgstr "Акцент"
+
+#: inc/wpcom-colors.php:290
+msgid "Background"
+msgstr "Фон"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:113
+msgid "Tagged"
+msgstr "Маркиран"
+
+#: inc/customizer.php:20
+msgid "Theme Options"
+msgstr "Допълнителни настройки"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:178
+msgid "%1$s: %2$s"
+msgstr "%1$s @ %2$s"
+
+#: inc/template-tags.php:174
+msgid "Archives: %s"
+msgstr "Архиви: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Разговори"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статуси"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Връзки"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитати"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галерии"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Бележки"
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr "Етикет: %s"
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: sidebar.php:17
+msgid "Menu"
+msgstr "Меню"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/template-tags.php:123
+msgid "% Comments"
+msgstr "% коментара"
+
+#: inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "има 1 коментар"
+
+#: inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: inc/template-tags.php:116
+msgctxt "post author"
+msgid "By %s"
+msgstr "От %s"
+
+#: inc/template-tags.php:109
+msgid "Posted in %1$s"
+msgstr "Публикувано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:107
+#: inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+msgid "All %s posts"
+msgstr "Всички %s публикации"
+
+#: inc/template-tags.php:86
+msgid "Featured"
+msgstr "На фокус"
+
+#: inc/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Навигация в публикациите"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "По-нови публикации <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> По-стари публикации"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Навигация на публикациите"
+
+#: inc/extras.php:113
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Source Code Pro, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:153
+msgctxt "Source Code Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:119
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "вкл."
+
+#. translators: If there are characters in your language that are not supported
+#. * by Lato, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:114
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:92
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr "Социално меню"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Главно меню"
+
+#: footer.php:31
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:29
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: footer.php:29
+msgid "http://wordpress.org/"
+msgstr "http://bg.wordpress.org/"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Има още <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:32
+#: inc/template-tags.php:127
+msgid "Edit"
+msgstr "Редактиране"
+
+#: content-page.php:26
+#: content-single.php:29
+msgid "Page"
+msgstr "Страница"
+
+#: content-page.php:22
+#: content-single.php:25
+msgid "Pages:"
+msgstr "Страници:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Коментари са забранени."
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "По-нови коментари &rarr;"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; По-стари коментари"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Едно мнение за &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнения за &ldquo;%2$s&rdquo;"
+
+#: author-bio.php:27
+msgid "View all posts by %s"
+msgstr "Всички публикации от %s"
+
+#: author-bio.php:10
+msgid "Published by %s"
+msgstr "Публикувано от %s "
+
+#: inc/template-tags.php:180
+msgid "Archives"
+msgstr "Архив"
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr "Година: %s"
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr "Месец: %s"
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr "Ден: %s"
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Опитайте да потърсите в месечните архиви. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Най-използвани категории"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Нищо не бе намерено на това място. Може би трябва да погледнете на друго място или да използвате търсачката."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."
